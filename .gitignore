@@ -3,6 +3,7 @@
 .vs/
 Debug/
 Release/
+.vscode/
 # Netbeans
 nbproject/
 *.user
